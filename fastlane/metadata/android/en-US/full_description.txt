@@ -1,14 +1,14 @@
-DeadHash is an utility to calculate <i>hashes</i>.
+<i>DeadHash</i> can generate hashes for files and text easily in a matter of seconds.
 
 <b>Features:</b>
-<ul>
-    <li>Generate hashes for files and texts </li>
-    <li>Dark theme support</li>
-    <li>Compare your hashes</li>
-    <li>Supports multiple hashes</li>
-</ul>
 
-Supported hashes:
+* Generate hashes for files and texts
+* Dark theme support
+* Compare your hashes
+* Supports multiple hashes
+
+<b>Supported hashes:</b>
+
 * MD5
 * SHA-1
 * SHA-224
@@ -16,3 +16,7 @@ Supported hashes:
 * SHA-384
 * SHA-512
 * CRC32
+
+You can even compare a file or a text to a given input and DeadHash will notify you if there are any matches.
+
+<b>Privacy:</b> <a href="https://codedead.com/privacy">codedead.com/privacy</a>
