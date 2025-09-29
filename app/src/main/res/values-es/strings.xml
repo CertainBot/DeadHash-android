@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_drawer_open">Abrir el menú de navegación</string>
+    <string name="navigation_drawer_close">Cerrar el menú de navegación</string>
+    <string name="nav_file">Archivo</string>
+    <string name="nav_text">Texto</string>
+    <string name="nav_settings">Ajustes</string>
+    <string name="nav_info">Información</string>
+    <string name="nav_help">Ayuda</string>
+    <string name="nav_about">Acerca de</string>
+    <string name="card_file">Archivo:</string>
+    <string name="card_file_path">Ruta archivo</string>
+    <string name="button_generate">Calcular</string>
+    <string name="card_open_folder">Abrir carpeta</string>
+    <string name="copy_data">Copiar datos</string>
+    <string name="toast_data_copied">Datos copiados al portapapeles!</string>
+    <string name="text_compare">Comparar:</string>
+    <string name="text_compare_hint">Introduce el hash aquí</string>
+    <string name="text_compare_hash">Comparar hashes</string>
+    <string name="toast_hash_match">Los hashes coinciden!</string>
+    <string name="toast_hash_mismatch">El hash no coincide con el introducido!</string>
+    <string name="text_content_hint">Introduce el texto aquí</string>
+    <string name="toast_error_notext">Por favor, primero introduce un texto!</string>
+    <string name="button_website">Sitio web</string>
+    <string name="button_support">Soporte</string>
+    <string name="text_help">Generar hashes de archivos sólo se puede hacer cuando DeadHash tiene permiso para acceder al almacenamiento. Generar hashes de archivos grandes podría llevar tiempo, depende por completo de la potencia de procesamiento del dispositivo.\n\nGenerar hashes de texto no requiere permisos adicionales. Generar hashes de cadenas largas podría llevar tiempo, depende por completo de la potencia de procesamiento del dispositivo.\n\nSi encuentras un error o necesitas soporte, siempre puedes contactarnos!</string>
+    <string name="nav_tools">Herramientas</string>
+    <string name="text_about">Esta aplicación sirve para generar hashes de archivos y cadenas.\n\nNo incluye anuncios ni dispositivos de rastreo en esta versión. Los permisos solicitados son necesarios para el uso correcto de la aplicación.\n\nTodas las imágenes son cortesía de Google.\n\nCopyright © 2025 CodeDead</string>
+    <string name="text_language">Idioma</string>
+    <string name="text_send_mail">Envianos un e-mail</string>
+    <string name="alert_review_title">Reseña</string>
+    <string name="alert_review_text">Considera dejar una reseña si te ha gustado la app!</string>
+    <string name="text_information">Información</string>
+    <string name="alert_review_never">Nunca</string>
+    <string name="string_no_clipboard_access">No es posible acceder al portapapeles!</string>
+    <string name="error_playstore">No es posible abrir Play Store!</string>
+    <string name="error_website">No es posible abrir el sitio web!</string>
+    <string name="dialog_select_file">Selecciona un archivo</string>
+    <string name="error_open_file">No es posible abrir el archivo seleccionado!</string>
+    <string name="error_no_file">No se ha seleccionado ningún archivo!</string>
+    <string name="theme">Tema</string>
+    <string name="ui_header">Usar interfaz</string>
+    <string name="hashing">Hasheando</string>
+    <string-array name="deadhash_theme_values">
+        <item>Claro</item>
+        <item>Oscuro</item>
+        <item>Seguir sistema</item>
+    </string-array>
+    <string name="toast_no_permissions">El permiso de almacenamiento es necesario para usar DeadHash</string>
+</resources>
