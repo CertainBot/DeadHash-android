@@ -5,9 +5,10 @@
         <item>Français</item>
         <item>Deutsch</item>
         <item>Italiano</item>
-	<item>Қазақша</item>
+        <item>Қазақша</item>
         <item>Português (Brasil)</item>
         <item>Русский</item>
+        <item>Español</item>
     </string-array>
 
     <string-array name="language_values" translatable="false">
@@ -16,9 +17,10 @@
         <item>fr</item>
         <item>de</item>
         <item>it</item>
-	<item>kk</item>
+        <item>kk</item>
         <item>pt</item>
         <item>ru</item>
+        <item>es</item>
     </string-array>
 
     <string-array name="deadhash_theme_entries" translatable="false">
