@@ -28,6 +28,7 @@ The following hash calculations are supported:
 
 - Portuguese - [SnwMds](https://github.com/SnwMds)
 - Kazakh - [Fontan030](https://github.com/Fontan030)
+- Spanish - [CertainBot](https://github.com/CertainBot)
 
 ## About
 
